@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Profile-Finder/static/css/main.f65227a3.chunk.css",
+    "main.js": "/React-Profile-Finder/static/js/main.5b767094.chunk.js",
+    "main.js.map": "/React-Profile-Finder/static/js/main.5b767094.chunk.js.map",
+    "runtime~main.js": "/React-Profile-Finder/static/js/runtime~main.08e0650e.js",
+    "runtime~main.js.map": "/React-Profile-Finder/static/js/runtime~main.08e0650e.js.map",
+    "static/js/2.82aebd89.chunk.js": "/React-Profile-Finder/static/js/2.82aebd89.chunk.js",
+    "static/js/2.82aebd89.chunk.js.map": "/React-Profile-Finder/static/js/2.82aebd89.chunk.js.map",
+    "index.html": "/React-Profile-Finder/index.html",
+    "precache-manifest.edffe1d567bbb2ff5e6956faff4067ec.js": "/React-Profile-Finder/precache-manifest.edffe1d567bbb2ff5e6956faff4067ec.js",
+    "service-worker.js": "/React-Profile-Finder/service-worker.js",
+    "static/css/main.f65227a3.chunk.css.map": "/React-Profile-Finder/static/css/main.f65227a3.chunk.css.map"
+  }
+}
